@@ -41,8 +41,9 @@
 
 ## 4.1. Cơ bản ([LINK](https://www.notion.so/1-Basic-171e3c27ef3781cd8362ec97e0e94250))
 
-- Buổi 01: ...
-    - ...
+- Buổi 01: Học bài mới.
+    - Bài 1.2: Lệnh in ra màn hinh.
+    - Bài 1.3: Kiểu dữ liệu và biến.
 
 ## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
 
