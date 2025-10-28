@@ -44,6 +44,9 @@
 - Buổi 01: Làm quen với Java.
     - Bài 1.2: Lệnh in ra màn hình.
     - Bài 1.3: Kiểu dữ liệu và biến.
+- Buổi 02: Ép kiểu, số học và toán tử.
+    - Bài 1.4: Ép kiểu dữ liệu.
+    - Bài 1.5: Toán tử.
 
 ## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
 
