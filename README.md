@@ -47,6 +47,9 @@
 - Buổi 02: Ép kiểu, số học và toán tử.
     - Bài 1.4: Ép kiểu dữ liệu.
     - Bài 1.5: Toán tử.
+- Buổi 03: Số học và toán tử (tt), nhập liệu.
+    - Bài 1.5: Toán tử (tt).
+    - Bài 1.6: Lệnh nhập liệu.
 
 ## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
 
