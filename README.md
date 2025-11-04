@@ -41,13 +41,13 @@
 
 ## 4.1. Cơ bản ([LINK](https://www.notion.so/1-Basic-171e3c27ef3781cd8362ec97e0e94250))
 
-- Buổi 01: Làm quen với Java.
+- Buổi 01 (23/10): Làm quen với Java.
     - Bài 1.2: Lệnh in ra màn hình.
     - Bài 1.3: Kiểu dữ liệu và biến.
-- Buổi 02: Ép kiểu, số học và toán tử.
+- Buổi 02 (28/10): Ép kiểu, số học và toán tử.
     - Bài 1.4: Ép kiểu dữ liệu.
     - Bài 1.5: Toán tử.
-- Buổi 03: Số học và toán tử (tt), nhập liệu.
+- Buổi 03 (30/10): Số học và toán tử (tt), nhập liệu.
     - Bài 1.5: Toán tử (tt).
     - Bài 1.6: Lệnh nhập liệu.
 
