@@ -166,8 +166,8 @@ public class Main {
         // System.out.println(arr[2].length);
 
         int[] arr1 = new int[] {10, 20, 30};
-        // int[] arr2 = arr1;
-        int[] arr2 = arr1.clone();
+        int[] arr2 = arr1;
+        // int[] arr2 = arr1.clone();
 
         arr1[1] = 100;
 
