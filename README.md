@@ -58,6 +58,10 @@
     - Bài 1.10: Thao tác với cấu trúc mảng tĩnh.
 - Buổi 06 (11/11): Xây dựng phương thức.
     - Bài 1.11: Xây dựng phương thức.
+- Buổi 07 (13/11): Xây dựng phương thức (tt).
+    - Bài 1.11: Xây dựng phương thức (tt).
+    - Bài 1.12: Ghi chồng phương thức.
+    - Bài 1.13: Đa tham số trong phương thức.
 
 ## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
 
