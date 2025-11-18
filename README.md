@@ -62,6 +62,9 @@
     - Bài 1.11: Xây dựng phương thức (tt).
     - Bài 1.12: Ghi chồng phương thức.
     - Bài 1.13: Đa tham số trong phương thức.
+- Buổi 08 (18/11): Ôn tập.
+    - Ôn tập lại vài kiến thức khó trong học phần Basic.
+    - Làm bài tập 2.C25 trên Web FHD.
 
 ## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
 
